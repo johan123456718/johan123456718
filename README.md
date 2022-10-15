@@ -6,7 +6,7 @@ Remember, all of us together we can do everything possible!
 
 ### Summary of me 
 - 🔭 I’m currently working on small tasks
-- 🌱 I’m currently learning machine learning, fullstack development, c#, Java, Spring and React. 
+- 🌱 I’m currently learning machine learning, fullstack development, c#, Java, Spring, React, C# ASP.net. 
 - 💬 Ask me about code help
 - 📫 How to reach me: ✉️axel1234516@hotmail.com
 

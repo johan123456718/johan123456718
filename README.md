@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, my name is Johan and I am a 23 year old guy who is passionate in programming. I love building cool projects, as well as helping others to make them better at programming.
+Hi, my name is Johan and I am a 25 year old guy who is passionate in programming. I love building cool projects, as well as helping others to make them better at programming.
 
 Remember, all of us together we can do everything possible!
 
